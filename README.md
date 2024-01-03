@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan Chipley
 ======================================================================================================================================
 
-Cloud Computing Student
+Currently I am a Cloud Computing Student 
 -----------------------
 
 Hello fellow Tech friends! Welcome to my GitHub page! I am really excited to share my Cloud/Tech journey with everyone! I am currently a student at Western Governors University (WGU) where I am pursing a B.S. in Cloud Computing. Currently I am studying to take the AWS Certified Cloud Practitioner (CCP) exam at the end of January 2024.
