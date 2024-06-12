@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan Chipley
 ======================================================================================================================================
 
-Currently enrolled at Western Governors University, pursing a B.S in Cloud Computing. 
+Future plans are to enroll in the M.S. Data Analytics program at Western Governors University (WGU) in December 2024. 
 -----------------------
 
 Hello fellow Tech friends! Welcome to my GitHub page! I'm excited on being able to share my Cloud/Data Analytics projects with everyone thorugh out this journey! Some of my future plans are attending Western Governors University (WGU) in December of 2024 and starting my Masters of Science program in Data Analytics. For now I am studying to take the AWS Certified Cloud Practitioner (CCP) exam at the end of June 2024.
