@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Currently enrolled at Western Governors University, pursing a B.S in Cloud Computing. 
 -----------------------
 
-Hello fellow Tech friends! Welcome to my GitHub page! I am really excited to share my Cloud/Tech journey with everyone! I am currently a student at Western Governors University (WGU) where I am pursing a B.S. in Cloud Computing. Currently I am studying to take the AWS Certified Cloud Practitioner (CCP) exam at the end of May 2024.
+Hello fellow Tech friends! Welcome to my GitHub page! I'm excited on being able to share my Cloud/Data Analytics projects with everyone thorugh out this journey! Some of my future plans are attending Western Governors University (WGU) in December of 2024 and starting my Masters of Science program in Data Analytics. For now I am studying to take the AWS Certified Cloud Practitioner (CCP) exam at the end of June 2024.
 
 * 🌍  I'm based in Missouri, United States
 * ✉️  You can contact me at [chipley09@gmail.com](mailto:chipley09@gmail.com)
-* 🧠  I'm learning AWS Cloud
-* 🤝  I'm open to collaborating on Any Cloud Projects
+* 🧠  I'm learning AWS Cloud & Data Analytics 
+* 🤝  I'm open to collaborating on Any Cloud or Data Analystics Projects
 
 ### Skills
 
